@@ -25,6 +25,8 @@ Imágenes de la ejecución del proyecto:
 ![image alt](https://github.com/kevin-vasquez-dev-5to-d2/C-trabajos/blob/96390da81397e61eced33aba0e26976834b74e41/imagenes_proyectos/programa2.png).
 
 
+![image alt](https://github.com/kevin-vasquez-dev-5to-d2/C-trabajos/blob/5ea1d745288345d0be8afab6184225702214f907/imagenes_proyectos/programa3.png)
+
 
 Uso o Ejecución: 
 Describe brevemente cómo ejecutar, instalar o visualizar el proyecto. 
