@@ -1,4 +1,4 @@
-# Sistema de Cálculo de Calificaciones (Promedio, Completivo y Extra)
+# Sistema de Cálculo de Calificaciones (Promedio, Completivo y Extraordinario)
 
 ## Descripción
 Este proyecto es una aplicación de escritorio diseñada para facilitar el cálculo de las notas finales de los estudiantes. El programa permite ingresar las 4 notas parciales y calcula el promedio automáticamente. 
@@ -7,8 +7,7 @@ Este proyecto es una aplicación de escritorio diseñada para facilitar el cálc
 ## Tecnologías Utilizadas
 * **Lenguaje:** C#
 * **Interfaz:** Windows Forms (.NET Framework)
-* **Entorno de Desarrollo:** Visual Studio 2022
-* **Lógica:** Estructuras condicionales y validación de tipos de datos.
+* **Entorno de Desarrollo:** Visual Studio 2026
 
 ## Imágenes de la ejecución del proyecto
 
