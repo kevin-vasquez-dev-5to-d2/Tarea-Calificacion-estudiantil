@@ -3,7 +3,6 @@
 ## Descripción
 Este proyecto es una aplicación de escritorio diseñada para facilitar el cálculo de las notas finales de los estudiantes. El programa permite ingresar las 4 notas parciales y calcula el promedio automáticamente. 
 
-Lo interesante es que el sistema detecta si el estudiante aprobó o si necesita ir a examen completivo o extraordinario, habilitando las opciones correspondientes según la nota obtenida. Realiza los cálculos de lugar (como el 50/50 del completivo o el 30/70 del extraordinario) para determinar el resultado final.
 
 ## Tecnologías Utilizadas
 * **Lenguaje:** C#
