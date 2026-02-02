@@ -22,8 +22,15 @@ El programa permite ingresar el ID, nombre, apellidos, dirección, teléfono, em
 ![Alerta de Validacion](https://github.com/kevin-vasquez-dev-5to-d2/C-trabajos/blob/7ecce3fe4dfb6d53d01b2307527d8572e0930c3d/imagenes_proyectos/Captura%20de%20pantalla%202026-02-01%20214055.png)
 
 **3. Archivo TXT Generado**
-> Cómo se ven los datos guardados en la tabla.
-![Archivo Generado](captura_archivo.png)
+> Cómo se ve el archivo generado.
+![Archivo Generado](https://github.com/kevin-vasquez-dev-5to-d2/C-trabajos/blob/7e61c83505dfc16c99e72f0ae47f222a1d873227/imagenes_proyectos/Captura%20de%20pantalla%202026-02-01%20214138.png)
+
+**4. Archivo TXT guardado**
+> Cómo se ven los datos ya en tabla en el archivo txt.
+![Archivo Generado]()
+
+
+
 
 ## Uso o Ejecución
 1. Abrir el proyecto en Visual Studio.
