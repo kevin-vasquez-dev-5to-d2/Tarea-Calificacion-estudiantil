@@ -1,62 +1,47 @@
-Nombre del Proyecto: tarea estudiante calificacion
+# Sistema de Cálculo de Calificaciones (Promedio, Completivo y Extra)
 
+## Descripción
+Este proyecto es una aplicación de escritorio diseñada para facilitar el cálculo de las notas finales de los estudiantes. El programa permite ingresar las 4 notas parciales y calcula el promedio automáticamente. 
 
-Descripción: 
+Lo interesante es que el sistema detecta si el estudiante aprobó o si necesita ir a examen completivo o extraordinario, habilitando las opciones correspondientes según la nota obtenida. Realiza los cálculos de lugar (como el 50/50 del completivo o el 30/70 del extraordinario) para determinar el resultado final.
 
-Este proyecto es una aplicación en C# (Windows Forms) que se encarga de calcular el promedio de cuatro notas de un estudiante.
-Según el promedio obtenido, el sistema indica si el estudiante pasa la materia directamente o si tiene que ir a completivo o extraordinario.
-La aplicación valida que todas las notas estén en el rango correcto (0 a 100) y muestra el resultado final de manera clara y sencilla para el usuario.
+## Tecnologías Utilizadas
+* **Lenguaje:** C#
+* **Interfaz:** Windows Forms (.NET Framework)
+* **Entorno de Desarrollo:** Visual Studio 2022
+* **Lógica:** Estructuras condicionales y validación de tipos de datos.
 
+## Imágenes de la ejecución del proyecto
 
+**1. Cálculo del Promedio**
+> Aquí se ve cuando se ingresan las 4 notas y el sistema da el primer resultado.
+![Calculo Promedio](programa1.png)
 
+**2. Proceso de Completivo**
+> Si el promedio es bajo, se activa el campo para poner la nota del examen completivo.
+![Examen Completivo](programa2.png)
 
+**3. Instancia de Extraordinario**
+> En caso de no pasar el completivo, el programa habilita la última oportunidad con el examen extraordinario.
+![Examen Extraordinario](programa3.png)
 
-Tecnologías Utilizadas: - Lenguaje(s): - Herramientas / Framework: .Net framework
+**3. Resultado final**
+> Aqui se da el resultado final de si paso o no.
+![Resultado Final](programa4.png)
 
+## Uso o Ejecución
+1.  Abrir el proyecto en Visual Studio.
+2.  Darle a "Iniciar" o presionar F5.
+3.  Ingresar las 4 notas (del 0 al 100).
+4.  Hacer clic en "Calcular Promedio".
+5.  Si el promedio es menor a 70, seguir las instrucciones en pantalla para completar con las notas de los exámenes especiales.
 
+## Contexto Académico
+ **Nivel:** Secundaria Técnico Profesional
+ **Módulo Formativo:** Desarrollo de Aplicaciones y Sistemas de Información
+ **Curso / Sección:** [5to D2]
+ **Año escolar:** 2025 - 2026
 
-- Entorno o IDE: Visual studio 2026
+## Autor
+ **[Kevin Vasquez]**
 
-  
-Imágenes de la ejecución del proyecto: 
-![image alt](https://github.com/kevin-vasquez-dev-5to-d2/C-trabajos/blob/e522a7a26e8f03959ca9d240950fa2d946553b80/imagenes_proyectos/programa1.png)
-
-
-![image alt](https://github.com/kevin-vasquez-dev-5to-d2/C-trabajos/blob/96390da81397e61eced33aba0e26976834b74e41/imagenes_proyectos/programa2.png).
-
-
-![image alt](https://github.com/kevin-vasquez-dev-5to-d2/C-trabajos/blob/5ea1d745288345d0be8afab6184225702214f907/imagenes_proyectos/programa3.png)
-
-
-![image alt](https://github.com/kevin-vasquez-dev-5to-d2/C-trabajos/blob/53890e4b1220769b9b386a561013abdb490db765/imagenes_proyectos/programa4.png)
-
-Uso o Ejecución: 
-
-Para ejecutarlo, es necesario tener Visual Studio instalado en la computadora.
-
-Abrir el proyecto desde Visual Studio.
-
-Verificar que el formulario principal (Form1) esté configurado como formulario de inicio.
-
-Presionar el botón Iniciar (F5) para ejecutar la aplicación.
-
-La aplicación se mostrará en una ventana donde el usuario podrá ingresar las cuatro notas y ver los resultados del promedio, completivo o extraordinario.
-
-
-Contexto Académico - Nivel: Secundaria Técnico Profesional 
-
-
-- Módulo Formativo: Desarrollo de Aplicaciones y Sistemas de informacion
-
-
-
-  - Curso / Sección:5to D-2
-
-
-
-   - Año escolar: 2025-2026
-
-
- 
-- Autor: 
-Kevin Vasquez 
