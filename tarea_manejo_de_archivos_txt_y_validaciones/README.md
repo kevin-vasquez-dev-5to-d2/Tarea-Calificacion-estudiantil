@@ -15,7 +15,7 @@ El programa permite ingresar el ID, nombre, apellidos, dirección, teléfono, em
 
 **1. Interfaz del Formulario**
 > Vista de los campos a llenar.
-![Formulario Principal](captura_interfaz.png)
+![Formulario Principal](https://github.com/kevin-vasquez-dev-5to-d2/C-trabajos/blob/12aec292a92317ef9436c1511aa62aab286ce9c7/imagenes_proyectos/Captura%20de%20pantalla%202026-02-01%20214036.png)
 
 **2. Mensaje de Alerta**
 > Validación cuando falta un dato obligatorio.
