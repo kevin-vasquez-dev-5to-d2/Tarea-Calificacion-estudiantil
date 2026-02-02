@@ -27,7 +27,7 @@ El programa permite ingresar el ID, nombre, apellidos, dirección, teléfono, em
 
 **4. Archivo TXT guardado**
 > Cómo se ven los datos ya en tabla en el archivo txt.
-![Archivo Generado]()
+![Archivo Generado](https://github.com/kevin-vasquez-dev-5to-d2/C-trabajos/blob/261132aa62f8a38b9ba827e10f1e541f6c68105b/imagenes_proyectos/Captura%20de%20pantalla%202026-02-01%20214202.png)
 
 
 
