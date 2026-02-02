@@ -15,7 +15,7 @@ Lo interesante es que el sistema detecta si el estudiante aprobó o si necesita 
 
 **1. Cálculo del Promedio**
 > Aquí se ve cuando se ingresan las 4 notas y el sistema da el primer resultado.
-![Calculo Promedio](programa1.png)
+![Calculo Promedio](https://github.com/kevin-vasquez-dev-5to-d2/C-trabajos/blob/8927245255d9c3664b33a6d8734d761fb3c1431a/imagenes_proyectos/programa1.png)
 
 **2. Proceso de Completivo**
 > Si el promedio es bajo, se activa el campo para poner la nota del examen completivo.
