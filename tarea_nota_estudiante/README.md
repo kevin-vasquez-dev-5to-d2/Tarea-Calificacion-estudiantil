@@ -19,7 +19,7 @@ Lo interesante es que el sistema detecta si el estudiante aprobó o si necesita 
 
 **2. Proceso de Completivo**
 > Si el promedio es bajo, se activa el campo para poner la nota del examen completivo.
-![Examen Completivo](https://github.com/kevin-vasquez-dev-5to-d2/C-trabajos/blob/41787738e3b556e1c93550a5b28fb1864419d1bd/imagenes_proyectos/programa3.png)
+![Examen Completivo](https://github.com/kevin-vasquez-dev-5to-d2/C-trabajos/blob/41787738e3b556e1c93550a5b28fb1864419d1bd/imagenes_proyectos/programa2.png)
 
 **3. Instancia de Extraordinario**
 > En caso de no pasar el completivo, el programa habilita la última oportunidad con el examen extraordinario.
